@@ -1,0 +1,10 @@
+(name [void method])
+
+(trigger
+    (tab void))
+
+(only-in source.processing)
+
+(snippet [void %{1}(%{2} %{3}) {
+	%{4}
+}])

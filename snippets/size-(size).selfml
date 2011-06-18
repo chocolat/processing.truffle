@@ -1,0 +1,8 @@
+(name size)
+
+(trigger
+    (tab size))
+
+(only-in source.processing)
+
+(snippet [size(%{1}, %{2}, %{3="P3D"});])

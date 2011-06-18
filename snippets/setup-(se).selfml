@@ -1,0 +1,10 @@
+(name setup)
+
+(trigger
+    (tab se))
+
+(only-in source.processing)
+
+(snippet [void setup() {
+	%{1}
+}])

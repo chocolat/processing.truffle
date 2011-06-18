@@ -1,0 +1,10 @@
+(name draw)
+
+(trigger
+    (tab se))
+
+(only-in source.processing)
+
+(snippet [void draw() {
+	%{1}
+}])

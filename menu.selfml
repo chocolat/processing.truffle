@@ -1,0 +1,1 @@
+(menu command.run-in-processing --- [snippet.draw-(se)] [snippet.float-(float)] [snippet.float[]-(float[])] [snippet.int-(int)] [snippet.int[]-(int[])] [snippet.opengl-(gl)] [snippet.setup-(se)] [snippet.size-(size)] [snippet.string-(str)] [snippet.string[]-(string[])] [snippet.void-method-(void)])

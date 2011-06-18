@@ -1,0 +1,8 @@
+(name [string[]])
+
+(trigger
+    (tab [string[]]))
+
+(only-in source.processing)
+
+(snippet [string[] %{1} = new string[%{2}];])

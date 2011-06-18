@@ -1,0 +1,8 @@
+(name [float[]])
+
+(trigger
+    (tab [float[]]))
+
+(only-in source.processing)
+
+(snippet [float[] %{1} = new float[%{2}];])

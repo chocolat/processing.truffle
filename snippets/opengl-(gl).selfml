@@ -1,0 +1,8 @@
+(name opengl)
+
+(trigger
+    (tab gl))
+
+(only-in source.processing)
+
+(snippet [import processing.opengl.*;])
